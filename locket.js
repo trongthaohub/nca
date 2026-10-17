@@ -611,7 +611,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨🎨🎨🎨🎨🎨",
+                section: "Made by trongthao",
                 items: [
                     {
                         overlay_id: "caption:nca",
@@ -619,7 +619,7 @@ if (ua.includes("Locket")) {
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "nguyencongan",
+                            text: "trthaodev",
                             text_color: "#183153",
                             type: "static_content"
                         }
